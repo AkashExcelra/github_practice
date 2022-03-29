@@ -1,0 +1,1 @@
+test for subbranch of branch1 directly merge with master
